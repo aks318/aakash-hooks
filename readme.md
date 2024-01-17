@@ -10,10 +10,10 @@ You can use the project in this way:
 
 ```bash
 # with npm
-npm install tapas-countries
+npm install aakash-hooks
 
 # with yarn
-yarn add tapas-countries
+yarn add aakash-hooks
 ```
 
 ### Usage
