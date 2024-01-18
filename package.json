@@ -1,6 +1,6 @@
 {
-  "name": "aakash-hooks",
-  "version": "1.0.0",
+  "name": "customs-hooks",
+  "version": "1.0.3",
   "type": "module",
   "description": "",
   "main": "dist/index.js",

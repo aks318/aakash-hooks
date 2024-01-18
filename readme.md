@@ -1,4 +1,4 @@
-# aakash-hooks
+# customs-hooks
 
 A ReactJS hooks
 
@@ -10,17 +10,17 @@ You can use the project in this way:
 
 ```bash
 # with npm
-npm install aakash-hooks
+npm install customs-hooks
 
 # with yarn
-yarn add aakash-hooks
+yarn add customs-hooks
 ```
 
 ### Usage
 
 - Import the package in your app:
 ```
-import {useWindowSize} from 'aakash-hooks'
+import {useWindowSize} from 'customs-hooks'
 ```
 
 # Hooks
