@@ -1,6 +1,6 @@
-# aakash-countries
+# customs-hooks
 
-A ReactJS hook to get the country information.
+A ReactJS hooks
 
 ## How to use it?
 
@@ -10,12 +10,24 @@ You can use the project in this way:
 
 ```bash
 # with npm
-npm install aakash-hooks
+npm install customs-hooks
 
 # with yarn
-yarn add aakash-hooks
+yarn add customs-hooks
 ```
 
 ### Usage
 
 - Import the package in your app:
+```
+import {useWindowSize} from 'customs-hooks'
+```
+
+# Hooks
+
+## useWindowSize
+
+This hook will give updated width and height of the window on resizing.
+```
+const windowSize = useWindowSize()
+```
