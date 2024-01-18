@@ -19,3 +19,10 @@ yarn add aakash-hooks
 ### Usage
 
 - Import the package in your app:
+
+# Hooks
+
+## useWindowSize
+
+This hook will give updated width and height of the window on resizing.
+## const windowSize = useWindowSize()
